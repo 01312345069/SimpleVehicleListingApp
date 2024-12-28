@@ -1,0 +1,30 @@
+[
+    {
+        "action": "add",
+        "name": "Maestro Edge Xtec Maestro Edge Xtec",
+        "price": "60000",
+        "image": "https:\/\/www.heromotocorp.com\/content\/dam\/hero-aem-website\/in\/design-bd\/product\/product-section\/Maestro%20Edge%20-%20Blue%20-%206.png",
+        "id": 2
+    },
+    {
+        "action": "add",
+        "name": "Honda Dio",
+        "price": "70000",
+        "image": "https:\/\/www.bdhonda.com\/assets\/public\/images\/dio\/wJAhXkM3NM1pbAB.png",
+        "id": 3
+    },
+    {
+        "action": "add",
+        "name": "VESPA VXL 250 MAT Yellow",
+        "price": "97000",
+        "image": "https:\/\/vespa-api.runnerautomobiles.com\/storage\/assets\/424ee724-c95e-40b6-8ce5-b129c5b22f3d\/LX-125-yy.jpg",
+        "id": "4"
+    },
+    {
+        "action": "add",
+        "name": "VESPA VXL 150 MAT BLACK",
+        "price": "87000",
+        "image": "https:\/\/vespa-api.runnerautomobiles.com\/storage\/assets\/d37c48f1-bd75-4b48-bb18-253e69ad35ba\/VXL-125-M.Black.jpg",
+        "id": 4
+    }
+]
